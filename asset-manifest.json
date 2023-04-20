@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/slgtc/static/css/main.073c9b0a.css",
+    "main.js": "/slgtc/static/js/main.694e6c07.js",
+    "static/js/787.7ddde77f.chunk.js": "/slgtc/static/js/787.7ddde77f.chunk.js",
+    "static/media/logo.svg": "/slgtc/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/slgtc/index.html",
+    "main.073c9b0a.css.map": "/slgtc/static/css/main.073c9b0a.css.map",
+    "main.694e6c07.js.map": "/slgtc/static/js/main.694e6c07.js.map",
+    "787.7ddde77f.chunk.js.map": "/slgtc/static/js/787.7ddde77f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.694e6c07.js"
+  ]
+}
